@@ -98,6 +98,7 @@ strong {
 }
 img {
   color: transparent;
+  border-color:transparent;
   font-size: 0;
   vertical-align: middle;
   -ms-interpolation-mode: bicubic;
